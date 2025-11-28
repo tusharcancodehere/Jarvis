@@ -1,0 +1,9 @@
+opencv-python<4.10
+numpy<2
+mediapipe
+ultralytics
+pyttsx3
+SpeechRecognition
+pyautogui
+psutil
+keyboard
