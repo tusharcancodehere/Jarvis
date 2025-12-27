@@ -69,7 +69,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/tusharcancodehere/JARVIS-MarkII.git
+   git clone https://github.com/tusharcancodehere/Jarvis
    cd JARVIS-MarkII
    ```
 
